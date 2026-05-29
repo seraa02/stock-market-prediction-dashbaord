@@ -9,8 +9,7 @@
 ![quantmod](https://img.shields.io/badge/Data-quantmod%20%2F%20Yahoo%20Finance-blue)
 
 **🔗 Live App:**
-- Primary: [stockmarketprediction-uqi4.onrender.com](https://stockmarketprediction-uqi4.onrender.com/)
-- Backup: [asmita-desai.shinyapps.io/stockmarketprediction](https://asmita-desai.shinyapps.io/stockmarketprediction/)
+ [asmita-desai.shinyapps.io/stockmarketprediction](https://asmita-desai.shinyapps.io/stockmarketprediction/)
 
 📌 What This Does
 
