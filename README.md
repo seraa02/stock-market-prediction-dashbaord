@@ -1,4 +1,4 @@
-![Stock Market Prediction Banner](www/header.png)
+![Stock Market Prediction Banner](header.png)
 
 This Shiny application forecasts NVDA stock prices using time-series models (ARIMAX, Naive) and machine learning models (XGBoost).
 The app also includes visual KPIs, model comparisons, forecast breakdowns, and confidence analysis features.
