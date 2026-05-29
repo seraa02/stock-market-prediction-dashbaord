@@ -94,7 +94,7 @@ Future Work
 
 👥 Team
 
-Samir Abdaljalil · Asmita Desai · *(add remaining team members)*
+Samir Abdaljalil · Asmita Desai · Saher Thekedar
 
 *Texas A&M University — Course Project*
 
